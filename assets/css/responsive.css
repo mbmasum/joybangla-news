@@ -1,0 +1,154 @@
+@media(min-width: 320px) and (max-width: 575px){
+    #top-part .addimg {
+        display: none;
+    }
+    #top-part .img img {
+        width: 60%;
+    }
+    #time-part input, button {
+        font-size: 13px;
+    }
+    #time-part input {
+        width: 121px;
+    }
+    #time-part p {
+        font-size: 13px;
+    }
+    #front-part .img h2 {
+        font-size: 22px;
+        left: 0px;
+    }
+    #front-part nav button {
+        padding: 8px 48px;
+    }
+    #sarabangla-part .item h2 {
+        font-size: 21px;
+    }
+    #sarabangla-part button {
+        padding: 5px 10px;
+    }
+    footer .footer_item {
+        display: block;
+    }
+    #single_post-part .linked_news {
+        margin-top: 10px;
+    }
+    #single_post-part button {
+        padding: 8px 48px;
+    }
+    #single_post-part .news_details h3 {
+        font-size: 25px;
+    }
+    .post_img img{
+        width: 100%;
+    }
+    #single_page-part .img{
+        margin-top: 5px;
+    }
+    #single_page-part button {
+        padding: 8px 16px;
+    }
+    #single_page-part .news2 button {
+        padding: 8px 48px;
+    }
+    #photo_gallery-part .national_text a {
+        font-size: 18px;
+    }
+    footer {
+        margin-top: 0px;
+    }
+
+
+
+}
+
+
+@media(min-width: 576px) and (max-width: 767px){
+   
+    #top-part .addimg {
+        display: none;
+    }
+    #top-part .img img {
+        width: 50%;
+    }
+    #front-part .img h2 {
+        left: 0px;
+        width: 100%;
+    }
+    #front-part nav button {
+        padding: 8px 103px;
+    }
+    .news_text h3 {
+        text-align: center;
+    }
+    #single_post-part .linked_news {
+        margin-top: 10px;
+    }
+    #single_post-part button {
+        padding: 8px 103px;
+    }
+    #single_page-part .img{
+        margin-top: 5px;
+    }
+    #single_page-part button {
+        padding: 8px 53px;
+    }
+    #single_page-part .news2 button {
+        padding: 8px 103px;
+    }
+
+
+
+    #sarabangla-part button {
+        background: #dc3545;
+        color: #fff;
+        padding: 5px 10px;
+        border-radius: 5px;
+    }
+
+
+}
+
+@media(min-width: 768px) and (max-width: 991px){
+  
+    #front-part .img h2 {
+        font-size: 20px;
+    }
+    #front-part nav button {
+        padding: 8px 16px;
+        font-size: 17px;
+    }
+    .news_text h3 {
+        font-size: 14px;
+    }
+    .national_text a {
+        font-size: 14px;
+    }
+    #sarabangla-part button {
+        padding: 5px 10px;
+    }
+    #photo_gallery-part .national_text a {
+        font-size: 18px;
+    }
+    #single_post-part .linked_news h2 {
+        font-size: 20px;
+    }
+    #single_post-part .news_details h3 {
+        font-size: 25px;
+    }
+    #single_post-part button {
+        padding: 8px 28px;
+    }
+    #single_page-part button {
+        padding: 8px 8px;
+        font-size: 16px;
+    }
+    #single_page-part .news2 button {
+        padding: 8px 32px;
+    }
+    #photo_gallery-part .national_text a {
+        font-size: 16px;
+    }
+
+
+}
